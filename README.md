@@ -1,2 +1,2 @@
 # hello-world
-Just another test repository
+This is first time i am using git
